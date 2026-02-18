@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/renanferreira1534/renanferreira1534/blob/main/imagem/foto1.jpg" height="500" width="750">
+<img align="center" src="https://github.com/renanferreira1534/renanferreira1534/blob/main/Imagem/foto1.jpg" height="500" width="750"> 
 
 ## Olá, meu nome é Renan Ferreira 👋  
 Sou estudante de tecnologia e aqui no meu perfil você encontrará algumas informações sobre mim. 🖥️
