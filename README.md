@@ -72,4 +72,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 ---
 
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/d2c89873-8449-4834-a2cc-f82f8ebb0ca0)
+
 ## 🌟 Por fim, fique à vontade para explorar meu perfil, conhecer meus projetos e acompanhar minha evolução na área de tecnologia! 🚀
